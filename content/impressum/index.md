@@ -5,7 +5,8 @@ title = 'Impressum'
 weight = 1
 +++
 
-== Angaben gemäß § 5 DDG:
+Angaben gemäß § 5 DDG:
+----------------------
 
 Landmänner Breckenheim e.V.
 vertr. d. d. Vorsitzenden Marcus Kohls
@@ -16,4 +17,4 @@ Vereinsregister:
 Amtsgericht Wiesbaden
 
 Kontakt:
-E-Mail: info@landmänner-breckenheim.de
+E-Mail: [webmaster@landmänner-breckenheim.de](mailto:webmaster@landmänner-breckenheim.de)

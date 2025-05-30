@@ -5,13 +5,15 @@ title = 'Satzung'
 weight = 1
 +++
 
-== § 1 Name, Sitz
+§ 1 Name, Sitz
+--------------
 
 1. Der Verein führt den Namen Landmänner Breckenheim.
 2. Er ist in das Vereinsregister eingetragen worden und führt den Zusatz e. V.
 3. Der Sitz des Vereins ist Wiesbaden Breckenheim.
 
-== § 2 Zweck
+§ 2 Zweck
+---------
 
 Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige / mildtätige/ kirchliche Zwecke im
 Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung (AO).
@@ -37,7 +39,8 @@ Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werde
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch
 unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-== § 3 Mitgliedschaft
+§ 3 Mitgliedschaft
+------------------
 
 1. Mitglied des Vereins kann jede natürliche Person und juristische Person werden. Über die Aufnahme entscheidet nach schriftlichem Antrag der Vorstand. Bei Minderjährigen ist der Aufnahmeantrag durch die gesetzlichen Vertreter zu stellen.
 2. Der Austritt aus dem Verein ist jederzeit zulässig. Er muss schriftlich gegenüber dem Vorstand erklärt werden. Die Frist beträgt 14 Tage nach Eingang.
@@ -46,13 +49,15 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 5. Das ausgetretene oder ausgeschlossene Mitglied hat keinen Anspruch gegenüber dem Vereinsvermögen.
 6. Die Mitglieder haben Mitgliedsbeiträge zu leisten. Die Höhe und Fälligkeit werden vom Vorstand jährlich geprüft. Anpassungen der Mitgliedsbeiträge müssen durch die Mitgliederversammlung durch einfache Mehrheit bestätigt werden.
 
-== § 4 Vorstand
+§ 4 Vorstand
+------------
 
 1. Der Gesamtvorstand des Vereins besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Kassierer und dem Schriftführer.
 2. Der vertretungsberechtigte Vorstand im Sinne des §26 BGB besteht aus dem 1. Vorsitzenden, dem 2. Vorsitzenden, dem Kassierer und dem Schriftführer. Jeder von ihnen vertritt den Verein einzeln.
 3. Der Vorstand wird von der Mitgliederversammlung auf die Dauer von zwei Jahren gewählt; jedes Vorstandsmitglied bleibt jedoch so lange im Amt, bis eine Neuwahl erfolgt ist.
 
-== § 5 Mitgliederversammlung
+§ 5 Mitgliederversammlung
+-------------------------
 
 1. Die ordentliche Mitgliederversammlung findet einmal jährlich statt. Außerdem muss eine Mitgliederversammlung einberufen werden, wenn das Interesse des Vereins es erfordert oder wenn mindestens 1/10 der Mitglieder die Einberufung schriftlich unter Angabe des Zwecks und der Gründe verlangt.
 2. Die Mitgliederversammlung wird vom Vorstand unter Einhaltung einer Frist von zwei Wochen durch elektronische Benachrichtigung per E-Mail unter Angabe der Tagesordnung einberufen. Die Frist beginnt mit dem auf die Absendung der Einladung folgenden Werktages. Das Einladungsschreiben gilt als dem Mitglied zugegangen, wenn es an die letzte vom Mitglied dem Verein schriftlich bekannt gegebene E-Mail-Adresse gerichtet ist. Die Tagesordnung setzt der Vorstand fest.
@@ -62,7 +67,8 @@ unverhältnismäßig hohe Vergütungen begünstigt werden.
 6. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll aufzunehmen, das vom
 Versammlungsleiter und dem Schriftführer zu unterschreiben ist.
 
-== § 6 Auflösung, Anfall des Vereinsvermögens
+§ 6 Auflösung, Anfall des Vereinsvermögens
+------------------------------------------
 
 1. Zur Auflösung des Vereins ist eine Mehrheit von 4/5 der abgegebenen gültigen Stimmen erforderlich.
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an
