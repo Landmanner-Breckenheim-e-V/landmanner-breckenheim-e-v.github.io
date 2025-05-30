@@ -1,0 +1,4 @@
+baseURL = 'https://www.landmänner-breckenheim.de/'
+languageCode = 'de-De'
+title = 'Landmänner Breckenheim e.V.'
+theme = 'ananke'
