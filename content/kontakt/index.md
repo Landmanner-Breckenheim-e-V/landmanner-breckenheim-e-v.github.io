@@ -5,4 +5,4 @@ title = 'Kontakt'
 weight = 1
 +++
 
-Hier kommen dann Kontaktinfos hin
+Wir sind am einfachsten per Email zu erreichen: [info@landmänner-breckenheim.de](mailto:info@landmänner-breckenheim.de). Demnächst soll hier auch ein Kontaktformular hin.
