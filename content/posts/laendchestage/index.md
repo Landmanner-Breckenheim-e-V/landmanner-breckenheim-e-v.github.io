@@ -5,3 +5,5 @@ tags = ['Veranstaltungen']
 featured_image = "suppe.jpg"
 description = ""
 +++
+
+Wir haben bei den Ländchestagen traditionell wieder Erbsensuppe gemacht.
