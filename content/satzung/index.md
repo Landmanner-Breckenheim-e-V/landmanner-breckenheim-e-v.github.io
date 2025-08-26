@@ -1,9 +1,8 @@
-+++
-title = 'Satzung'
-[menus]
-[menus.main]
-weight = 1
-+++
+---
+title: Satzung
+menus:
+ - main
+---
 
 § 1 Name, Sitz
 --------------

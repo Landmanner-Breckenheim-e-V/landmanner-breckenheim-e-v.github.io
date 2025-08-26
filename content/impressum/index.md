@@ -1,12 +1,11 @@
-+++
-title = 'Impressum'
-[menus]
-[menus.main]
-weight = 1
-+++
+---
+title: Impressum
+menus:
+ - main
+---
 
-Angaben gemäß § 5 DDG:
-----------------------
+Angaben gemäß § 5 DDG
+---------------------
 
 Landmänner Breckenheim e.V.
 vertr. d. d. Vorsitzenden Marcus Kohls

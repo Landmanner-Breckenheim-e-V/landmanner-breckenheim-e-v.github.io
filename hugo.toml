@@ -13,6 +13,8 @@ priority = 0.5
 filename = "sitemap.xml"
 
 [params]
+show_reading_time = true
+rss = true
 text_color = ""
 author = ""
 favicon = ""
@@ -20,8 +22,12 @@ site_logo = ""
 description = "Landmänner sind cool."
 recent_posts_number = 3
 
-[ananke.social.follow]
+[params.ananke.social.follow]
 new_window_icon = false
 networks = [
   "facebook"
 ]
+
+[params.ananke.social.networks.facebook]
+profile = "https://www.facebook.com/profile.php?id=100080038848397"
+
