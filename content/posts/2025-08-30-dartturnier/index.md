@@ -12,3 +12,5 @@ Wir freuen uns wieder auf einen tollen Abend bei [Bistro Pizzeria da Fabi](https
 ![Dartturnier](banner.jpg)
 
 Anmeldung unter [info@landmänner-breckenheim.de](mailto:info@landmännner-breckenheim.de)
+
+Die Ergebnisse könnt ihr nach dem Turnier hier auf der Homepage abrufen.
