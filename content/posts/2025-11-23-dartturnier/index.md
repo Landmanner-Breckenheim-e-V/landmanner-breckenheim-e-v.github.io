@@ -9,6 +9,8 @@ Unser 8. Dart Turnier fand am 22.11 statt! 🎯🎯, wie immer beim [Bistro Pizz
 
 ![1. Preis](preis.jpg)
 
+Den ersten Preis hat die Mannschaft Treffnix abgeräumt. 
+
 <!--more-->
 
 Ergebnisse Vorrunde
@@ -39,7 +41,9 @@ Ergebnisse Vorrunde B
 Ergebnisse Hauptrunden
 ======================
 
-Im Anschluss ging es in die Hauptrunden. Auch hier haben wir zwei getrennte Runden gespielt, wobei die Hauptrunde C besetzt war aus den Plätzen 1-3 der Vorrunde A und den Plätzen 4-6 der Vorrunde B und die Hauptrunde D umgedreht mit den Plätzen 4-6 der Vorrunde A und den Plätzen 1-3 der Vorrunde B. Auch hier wollen wir euch natürlich noch die Ergebnisse zeigen:
+Im Anschluss ging es in die Hauptrunden. Auch hier haben wir zwei getrennte Runden gespielt, wobei die Hauptrunde C besetzt war aus den Plätzen 1-3 der Vorrunde A und den Plätzen 4-6 der Vorrunde B und die Hauptrunde D umgedreht mit den Plätzen 4-6 der Vorrunde A und den Plätzen 1-3 der Vorrunde B. Mit der Vorrunde hat man sich also nur eine bessere Ausgangslage erspielt, auch wenn jeder in der Hauptrunde noch die Chance hat, vorne mitzuspielen, wie der Fall von *Havana Club* perfekt zeigt. 
+
+Natürlich wollen wir euch natürlich noch die Ergebnisse zeigen:
 
 Ergebnisse Hauptrunde C
 -----------------------
@@ -64,6 +68,6 @@ Ergebnisse Hauptrunde D
 Ergebnisse Finale
 =================
 
-In das Finale sind dann die jeweils die beiden besten Mannschaften der beiden Hauptgruppen eingezogen, in der Reihenfolge der Punkte. Am Finale teilgenommen haben somit Hofbier 1, Havana Club, Treffnix und Fox River Brewing 2. Entschieden hat das Finale dann Treffnix, die Fox River Brewing 2, Hofbier 1 und Havana Club hinter sich ließen.
+In das Finale sind jeweils die beiden besten Mannschaften der Hauptgruppen eingezogen, in der Reihenfolge der Punkte. Am Finale teilgenommen haben somit Hofbier 1, Havana Club, Treffnix und Fox River Brewing 2. Entschieden hat das Finale dann Treffnix, die Fox River Brewing 2, Hofbier 1 und Havana Club hinter sich ließen.
 
 Uns hat der Abend großen Spaß gemacht und wir bedanken uns bei allen, die teilgenommen haben. Den Modus werden wir wohl für die kommenden Dartturniere beibehalten.
