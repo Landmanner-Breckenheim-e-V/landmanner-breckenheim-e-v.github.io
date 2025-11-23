@@ -7,7 +7,7 @@ tags: ['Dartturnier']
 
 Unser 8. Dart Turnier fand am 22.11 statt! 🎯🎯, wie immer beim [Bistro Pizzeria da Fabi](https://www.facebook.com/Verardifabrizio). Es war wieder ein sehr schöner Abend.
 
-![Dartturnier](banner.jpg)
+![1. Preis](preis.jpg)
 
 <!--more-->
 

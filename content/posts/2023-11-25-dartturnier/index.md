@@ -1,7 +1,6 @@
 ---
 date: 2023-11-25
 title: Dartturnier am 25.11.2023
-featured_image: banner.jpg
 tags: ['Dartturnier']
 ---
 

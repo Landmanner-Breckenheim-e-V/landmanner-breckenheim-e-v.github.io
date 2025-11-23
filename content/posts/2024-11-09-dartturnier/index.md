@@ -1,7 +1,6 @@
 ---
 date: 2024-11-09
 title: Dartturnier am 9.11.2024
-featured_image: banner.jpg
 tags: ['Dartturnier']
 ---
 
